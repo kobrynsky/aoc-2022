@@ -16,7 +16,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="day_02" />
+      <Content Include="inputs\day02.txt" />
     </ItemGroup>
 
 </Project>
